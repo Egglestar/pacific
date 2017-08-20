@@ -1,4 +1,4 @@
-* {border: 1px dashed blue !important;}
+
 
 html {
   font-family: helvetica, sans-serif;
@@ -84,9 +84,8 @@ address {
             animation: fadein 8s;
 }
 
-address a, address p {
+address a {
   text-decoration: none;
-  color: black;
 }
 
 @media only screen and (max-width: 790px) {
