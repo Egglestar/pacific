@@ -1,5 +1,4 @@
 
-
 html {
   font-family: helvetica, sans-serif;
   font-size: 16px;
@@ -27,7 +26,7 @@ main {
 main img {
   height: 20rem;
   width: auto;
-  margin: 4rem 0rem;
+  margin: 4rem 2rem;
 
   -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
          -moz-animation: fadein 2s; /* Firefox < 16 */
@@ -66,7 +65,7 @@ footer {
 
 address {
   display: flex;
-  padding: 5rem 2rem 2rem 0rem;
+  padding: 7rem 2rem 0rem 0rem;
 }
 
 #address-box {
@@ -75,7 +74,7 @@ address {
   justify-content: space-between;
   height: 5rem;
   width: auto;
-  padding-left: 1rem;
+  padding-left: 2rem;
 
   -webkit-animation: fadein 8s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 8s; /* Firefox < 16 */
@@ -93,6 +92,7 @@ address a {
 
   address {
     justify-content: center;
+    padding: 7rem 2rem 0rem 0rem;
   }
 }
 
