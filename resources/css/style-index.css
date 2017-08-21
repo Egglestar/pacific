@@ -35,8 +35,6 @@ main img {
               animation: fadein 2s;
   }
 
-
-
 #box {
   text-align: right;
   padding-right: 1.5rem;
@@ -48,7 +46,9 @@ main img {
             animation: fadein 5s;
 }
 
-@media only screen and (max-width: 798px) {
+/* Mobil Main*/
+
+@media only screen and (max-width: 790px) {
 
   main h1 {
     font-size: 2.5rem;
@@ -61,6 +61,7 @@ main img {
 footer {
   width: 100%;
   height: auto;
+  padding-bottom: 2rem;
 }
 
 address {
